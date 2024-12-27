@@ -43,6 +43,13 @@
                 "label": "Contact",
                 "url": "/contact",
                 "underline": "hover"
+            },
+            {
+                "type": "Link",
+                "label": "Publication",
+                "url": "/publication",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     },
