@@ -26,6 +26,13 @@
             },
             {
                 "type": "Link",
+                "label": "Resources",
+                "url": "/reasources",
+                "underline": "always",
+                "color": "primary"
+            },
+            {
+                "type": "Link",
                 "label": "About",
                 "url": "/about",
                 "underline": "hover"
