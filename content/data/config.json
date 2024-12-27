@@ -2,24 +2,46 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "TypeScript + MUI Starter",
+        "title": "Digital Intelligent Battery Lab",
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "Welcome",
                 "url": "/",
                 "underline": "hover"
             },
             {
                 "type": "Link",
-                "label": "About",
-                "url": "/about",
-                "underline": "hover"
+                "label": "Research",
+                "url": "/reasearch",
+                "underline": "always",
+                "color": "primary"
             },
             {
                 "type": "Link",
-                "label": "Documentation",
-                "url": "https://docs.netlify.com/visual-editor/overview/",
+                "label": "People",
+                "url": "/people",
+                "underline": "always",
+                "color": "primary"
+            },
+            {
+                "type": "Link",
+                "label": "Resources",
+                "url": "/reasources",
+                "underline": "always",
+                "color": "primary"
+            },
+            {
+                "type": "Link",
+                "label": "Lab",
+                "url": "/lab",
+                "underline": "always",
+                "color": "primary"
+            },
+            {
+                "type": "Link",
+                "label": "Contact",
+                "url": "/contact",
                 "underline": "hover"
             }
         ]
