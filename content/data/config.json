@@ -7,7 +7,7 @@
             {
                 "type": "Link",
                 "label": "Welcome",
-                "url": "/",
+                "url": "/Welcom",
                 "underline": "hover"
             },
             {
