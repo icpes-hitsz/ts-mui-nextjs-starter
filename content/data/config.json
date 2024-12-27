@@ -12,6 +12,13 @@
             },
             {
                 "type": "Link",
+                "label": "Research",
+                "url": "/reasearch",
+                "underline": "always",
+                "color": "primary"
+            },
+            {
+                "type": "Link",
                 "label": "About",
                 "url": "/about",
                 "underline": "hover"
