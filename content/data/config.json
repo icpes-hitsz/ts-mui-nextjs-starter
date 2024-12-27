@@ -41,7 +41,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "/about",
+                "url": "/contact",
                 "underline": "hover"
             },
             {
