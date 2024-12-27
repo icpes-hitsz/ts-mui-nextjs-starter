@@ -40,7 +40,7 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "Contact",
                 "url": "/about",
                 "underline": "hover"
             },
