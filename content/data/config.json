@@ -19,6 +19,13 @@
             },
             {
                 "type": "Link",
+                "label": "People",
+                "url": "/people",
+                "underline": "always",
+                "color": "primary"
+            },
+            {
+                "type": "Link",
                 "label": "About",
                 "url": "/about",
                 "underline": "hover"
